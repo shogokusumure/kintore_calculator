@@ -1,0 +1,43 @@
+.display {
+  padding: 0 20px 50px;
+  color: #000;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+.display p {
+  font-size: 24px;
+}
+
+.display span {
+  font-size: 16px;
+}
+
+.button {
+  width: 280px;
+  height: 280px;
+  border-radius: 140px;
+  background: yellow;
+  color: #000;
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+  padding-top: calc(140px - 32px);
+  box-sizing: border-box;
+  border: 1px solid #cdcdcd;
+  margin: 0 auto;
+}
+
+.reset {
+  width: 200px;
+  height: 20px;
+  border-radius: 15px;
+  background: #cdcdcd;
+  color: #000;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid #cdcdcd;
+  margin: 100px auto 0;
+}
